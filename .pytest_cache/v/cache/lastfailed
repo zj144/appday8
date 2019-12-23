@@ -1,0 +1,10 @@
+{
+  "Scripts/test_add_user.py": true,
+  "scripts/test_add_user.py::Test_AddUser::test_01[zc-13333333333]": true,
+  "scripts/test_set_search.py::TestSetSearch::test_01set_search[1-\\u4f11\\u7720]": true,
+  "scripts/test_set_user.py::Test_AddUser::test_01[16600282792]": true,
+  "scripts/test_set_user.py::Test_AddUser::test_01[16600282793]": true,
+  "scripts/test_set_user.py::Test_AddUser::test_01[appium]": true,
+  "scripts/test_set_user.py::Test_AddUser::test_01[python]": true,
+  "scripts/test_set_user.py::Test_AddUser::test_01[selenium]": true
+}

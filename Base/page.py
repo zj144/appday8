@@ -3,6 +3,7 @@
 实例化所有页面驱动返回
 '''
 from Base.Base import Base
+from Page.mms_firstpage import MmsfPage
 from Page.more_page import SetMorepage
 from Page.set_mobile_page import SetmoblePage
 from Page.set_search_page import SetPage
@@ -22,3 +23,7 @@ class Page_Obj(Base):
     # 返回移动网络
     def set_moble_page(self):
         return SetmoblePage(self.driver)
+    # 返回短信页面
+
+    def send_mms(self):
+        return MmsfPage(self.driver)

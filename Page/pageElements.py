@@ -60,3 +60,20 @@ class SearchElements():
     input_name = (By.XPATH, "//*[contains(@text,'姓名')]")
     # 输入电话
     input_phone = (By.XPATH, "//*[contains(@text,'电话')]")
+
+    '''
+    信息首页
+    '''
+    # 添加新信息
+    new_ms_id = (By.ID,"com.android.mms:id/action_compose_new")
+    # 接受者
+    mms_use_xp = (By.XPATH, "//*[contains(@text,'接收者')]")
+    # 发送信息内容
+    mms_send_xp = (By.XPATH, "//*[contains(@text,'键入信息')]")
+    # 点击发送
+    mms_click_send = (By.ID,"com.android.mms:id/send_button_sms")
+    # 信息发送内容
+    mms_result = (By.ID,"com.android.mms:id/text_view")
+    # 点击返回
+    mms_back = (By.ID,"android:id/up")
+
