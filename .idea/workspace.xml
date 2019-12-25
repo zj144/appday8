@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de1a7d3-07e1-4fcd-a18f-9691f9804553" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Base/ts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/mms_value.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/va.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/08test_lx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/cs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Page/set_search_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/set_search_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/report/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/va.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/va.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +225,7 @@
       <workItem from="1577120934917" duration="1064000" />
       <workItem from="1577193526928" duration="1958000" />
       <workItem from="1577233982880" duration="13058000" />
-      <workItem from="1577255623765" duration="2271000" />
+      <workItem from="1577255623765" duration="3630000" />
     </task>
     <task id="LOCAL-00001" summary="sycm">
       <created>1577121309569</created>

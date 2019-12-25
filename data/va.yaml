@@ -7,3 +7,11 @@ test_sum2:
   a: 1
   b: 2
   c: 6
+test_sum3:
+  a: 4
+  b: 2
+  c: 6
+test_sum4:
+  a: 6
+  b: 3
+  c: 9

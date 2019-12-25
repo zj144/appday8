@@ -21,7 +21,7 @@ ss = GetDate()
 s1 = GetDate().read_sum_ya_data('va.yaml')
 print(s1)
 
-# @pytest.mark.parametrize('a,b,c',ss.read_sum_ya_data('va.yaml'))
+# @pytest.mark.parametrize('a,b,c',ss. addead_sum_ya_data('va.yaml'))
 # def sum(a,b,c):
 #     assert a+b == c
 
