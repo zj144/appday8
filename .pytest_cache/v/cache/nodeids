@@ -1,3 +1,7 @@
 [
-  "scripts/09test_lx.py::Test_003::()::test_003_1"
+  "scripts/09test_lx.py::Test_003::()::test_01",
+  "scripts/09test_lx.py::Test_003::()::test_02",
+  "scripts/09test_lx.py::Test_003::()::test_03",
+  "scripts/09test_lx.py::Test_003::()::test_04",
+  "scripts/09test_lx.py::Test_003::()::test_05"
 ]

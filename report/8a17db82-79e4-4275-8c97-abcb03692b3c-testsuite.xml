@@ -1,0 +1,77 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1577269245669" stop="1577269245756">
+  <name>09test_lx</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1577269245669" status="passed" stop="1577269245680">
+      <name>Test_003.test_01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="20644-MainThread"/>
+        <label name="host" value="DESKTOP-GPDHGES"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577269245697" status="passed" stop="1577269245698">
+      <name>Test_003.test_02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="20644-MainThread"/>
+        <label name="host" value="DESKTOP-GPDHGES"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577269245699" status="passed" stop="1577269245700">
+      <name>Test_003.test_03</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20644-MainThread"/>
+        <label name="host" value="DESKTOP-GPDHGES"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577269245702" status="failed" stop="1577269245754">
+      <name>Test_003.test_04</name>
+      <failure>
+        <message>AssertionError: assert False</message>
+        <stack-trace>self = &lt;09test_lx.Test_003 object at 0x000001A2C2319488&gt;
+
+    @pytest.allure.severity(pytest.allure.severity_level.MINOR)
+    def test_04(self):
+&gt;       assert False
+E       assert False
+
+scripts\09test_lx.py:22: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="20644-MainThread"/>
+        <label name="host" value="DESKTOP-GPDHGES"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577269245755" status="passed" stop="1577269245756">
+      <name>Test_003.test_05</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="trivial"/>
+        <label name="thread" value="20644-MainThread"/>
+        <label name="host" value="DESKTOP-GPDHGES"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

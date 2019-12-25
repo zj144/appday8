@@ -1,0 +1,66 @@
+{
+  "uid" : "d0beaf92d22cb1cc",
+  "name" : "Test_003.test_04",
+  "fullName" : "09test_lx.Test_003.test_04",
+  "historyId" : "f9cbd909bf48fee64bae24945179848e",
+  "time" : {
+    "start" : 1577268865497,
+    "stop" : 1577268865536,
+    "duration" : 39
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "self = <09test_lx.Test_003 object at 0x00000172613E9708>\n\n    @pytest.allure.severity(pytest.allure.severity_level.MINOR)\n    def test_04(self):\n>       assert False\nE       assert False\n\nscripts\\09test_lx.py:22: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GPDHGES"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "2728-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "09test_lx"
+  }, {
+    "name" : "testClass",
+    "value" : "09test_lx"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_003.test_04"
+  }, {
+    "name" : "package",
+    "value" : "09test_lx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d0beaf92d22cb1cc.json",
+  "parameterValues" : [ ]
+}

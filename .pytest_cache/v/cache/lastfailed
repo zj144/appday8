@@ -2,6 +2,7 @@
   "Scripts/test_add_user.py": true,
   "scripts/08test_lx.py::TestSum": true,
   "scripts/08test_lx.py::TestSum::test_sum[1-2-6]": true,
+  "scripts/09test_lx.py::Test_003::()::test_04": true,
   "scripts/test_add_user.py::Test_AddUser::test_01[zc-13333333333]": true,
   "scripts/test_set_search.py::TestSetSearch::test_01set_search[1-\\u4f11\\u7720]": true,
   "scripts/test_set_user.py::Test_AddUser::test_01[16600282792]": true,

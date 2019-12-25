@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de1a7d3-07e1-4fcd-a18f-9691f9804553" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/09test_lx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/10test_lx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/1864c0e0-e206-4bf5-91cf-ca7669871932-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/09test_lx.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/09test_lx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +47,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\14210\Desktop\appday6xl\Base" />
       <recent name="C:\Users\14210\Desktop\appday6xl\scripts" />
+      <recent name="C:\Users\14210\Desktop\appday6xl\Base" />
       <recent name="C:\Users\14210\Desktop\appday6xl" />
     </key>
   </component>
@@ -228,7 +231,8 @@
       <workItem from="1577120934917" duration="1064000" />
       <workItem from="1577193526928" duration="1958000" />
       <workItem from="1577233982880" duration="13058000" />
-      <workItem from="1577255623765" duration="6189000" />
+      <workItem from="1577255623765" duration="6666000" />
+      <workItem from="1577264233958" duration="7089000" />
     </task>
     <task id="LOCAL-00001" summary="sycm">
       <created>1577121309569</created>
@@ -269,30 +273,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="576" y="142" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577121304328" />
-    <state width="914" height="287" key="GridCell.Tab.0.bottom" timestamp="1577257698803">
+    <state width="914" height="287" key="GridCell.Tab.0.bottom" timestamp="1577264169157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577257698803" />
-    <state width="914" height="287" key="GridCell.Tab.0.center" timestamp="1577257698803">
+    <state width="914" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577264169157" />
+    <state width="914" height="287" key="GridCell.Tab.0.center" timestamp="1577264169157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577257698803" />
-    <state width="914" height="287" key="GridCell.Tab.0.left" timestamp="1577257698802">
+    <state width="914" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577264169157" />
+    <state width="914" height="287" key="GridCell.Tab.0.left" timestamp="1577264169155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577257698802" />
-    <state width="914" height="287" key="GridCell.Tab.0.right" timestamp="1577257698803">
+    <state width="914" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577264169155" />
+    <state width="914" height="287" key="GridCell.Tab.0.right" timestamp="1577264169157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577257698803" />
+    <state width="914" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577264169157" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1577121026252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577121026252" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577255622573">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577264236691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577255622573" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577264236691" />
     <state x="689" y="136" width="1059" height="802" key="dock-window-1" timestamp="1577234356526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

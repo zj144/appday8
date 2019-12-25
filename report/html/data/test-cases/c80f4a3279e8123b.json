@@ -1,0 +1,60 @@
+{
+  "uid" : "c80f4a3279e8123b",
+  "name" : "Test_003.test_02",
+  "fullName" : "09test_lx.Test_003.test_02",
+  "historyId" : "c6a83d2d1153a5db2b0eb3ed736d123c",
+  "time" : {
+    "start" : 1577268865492,
+    "stop" : 1577268865493,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GPDHGES"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "2728-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "09test_lx"
+  }, {
+    "name" : "testClass",
+    "value" : "09test_lx"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_003.test_02"
+  }, {
+    "name" : "package",
+    "value" : "09test_lx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c80f4a3279e8123b.json",
+  "parameterValues" : [ ]
+}

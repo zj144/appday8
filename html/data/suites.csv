@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"passed","09test_lx.Test_003.test_03","1",""
+"passed","09test_lx.Test_003.test_05","1",""
+"failed","09test_lx.Test_003.test_04","39",""
+"passed","09test_lx.Test_003.test_02","1",""
+"passed","09test_lx.Test_003.test_01","6",""
