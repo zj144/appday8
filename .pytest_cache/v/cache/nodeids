@@ -1,24 +1,3 @@
 [
-  "scripts/test_add_user.py::Test_AddUser::test_01[\\u5f20-18888888888]",
-  "scripts/test_add_user.py::Test_AddUser::test_01[zc-13333333333]",
-  "scripts/test_add_user.py::Test_AddUser::test_01[\\u5f20\\u5065-16600282792]",
-  "scripts/test_add_user.py::Test_AddUser::test_01[ch-16600282793]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[16600282792]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[16600282793]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[\\u5f20]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[\\u5f20\\u4e09]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[python]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[appium]",
-  "scripts/test_set_user.py::Test_AddUser::test_01[selenium]",
-  "scripts/test_set_search.py::TestSetSearch::test_01set_search[1-\\u4f11\\u7720]",
-  "scripts/test_set_search.py::TestSetsearch::test_01set_search[1-\\u4f11\\u7720]",
-  "scripts/test_set_moble.py::TestsetMoble::test_set_mb",
-  "scripts/test_set_moble.py::TestsetMoble::test_set_mb[2G]",
-  "scripts/test_set_moble.py::TestsetMoble::test_set_mb[3G]",
-  "scripts/test_send_mms.py::TestsendMms::test_new_mms",
-  "scripts/test_send_mms.py::TestsendMms::test_new_mms[13689342491-\\u52d2\\u5e03\\u6717\\u8a79\\u59c6\\u65af]",
-  "scripts/test_send_mms.py::TestsendMms::test_new_mms[16600282792-\\u5e93\\u91cc]",
-  "scripts/test_send_mms.py::TestsendMms::test_new_mms[16612345678-\\u6d53\\u7709]",
-  "scripts/08test_lx.py::TestSum::test_sum[1-2-3]",
-  "scripts/08test_lx.py::TestSum::test_sum[1-2-6]"
+  "scripts/09test_lx.py::Test_003::()::test_003_1"
 ]
