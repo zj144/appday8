@@ -12,8 +12,8 @@ from Page.set_search_page import SetPage
 '''
 
 class Page_Obj(Base):
-    def __init__(self,driver):
-        Base.__init__(self,driver)
+    def __init__(self,dri):
+        Base.__init__(self,dri)
     # 返回设置页面
     def get_set_page(self):
         return SetPage(self.driver)
@@ -24,6 +24,5 @@ class Page_Obj(Base):
     def set_moble_page(self):
         return SetmoblePage(self.driver)
     # 返回短信页面
-
     def send_mms(self):
         return MmsfPage(self.driver)

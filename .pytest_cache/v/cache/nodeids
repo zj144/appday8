@@ -18,5 +18,7 @@
   "scripts/test_send_mms.py::TestsendMms::test_new_mms",
   "scripts/test_send_mms.py::TestsendMms::test_new_mms[13689342491-\\u52d2\\u5e03\\u6717\\u8a79\\u59c6\\u65af]",
   "scripts/test_send_mms.py::TestsendMms::test_new_mms[16600282792-\\u5e93\\u91cc]",
-  "scripts/test_send_mms.py::TestsendMms::test_new_mms[16612345678-\\u6d53\\u7709]"
+  "scripts/test_send_mms.py::TestsendMms::test_new_mms[16612345678-\\u6d53\\u7709]",
+  "scripts/08test_lx.py::TestSum::test_sum[1-2-3]",
+  "scripts/08test_lx.py::TestSum::test_sum[1-2-6]"
 ]
